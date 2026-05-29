@@ -35,10 +35,3 @@ build
 
 # OS files
 Thumbs.db
-
-# Unnecessary documentation files (keep only README.md)
-IMPLEMENTATION.md
-QUICKSTART.md
-SUBMISSION.md
-SCREENSHOT_GUIDE.md
-PRE-SUBMISSION-CHECKLIST.md

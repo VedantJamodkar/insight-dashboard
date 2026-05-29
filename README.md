@@ -3,7 +3,6 @@
 ## 👤 Candidate Information
 
 - **Full Name**: Vedant Panjab Jamodkar
-- **Contact Number**: 7350742734
 - **Email ID**: vedantjamodkar18@gmail.com
 - **GitHub Username**: VedantJamodkar
 
@@ -30,7 +29,7 @@ A fully functional robotics visualization dashboard featuring real-time 3D point
 
 1. **Clone or download the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/VedantJamodkar/insight-dashboard.git
    cd insight-dashboard
    ```
 
